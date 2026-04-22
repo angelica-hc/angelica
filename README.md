@@ -1,14 +1,14 @@
-\# Algoritmos de Ordenamiento
+- Algoritmos de Ordenamiento
 
 
 
-\## Descripción
+- Descripción
 
 Este proyecto implementa algoritmos de ordenamiento en Java y analiza su comportamiento mediante el conteo de comparaciones e intercambios.
 
 
 
-\## Algoritmos implementados
+- Algoritmos implementados
 
 \- Bubble Sort (versión base)
 
@@ -18,7 +18,7 @@ Este proyecto implementa algoritmos de ordenamiento en Java y analiza su comport
 
 
 
-\## Mejoras aplicadas a Bubble Sort
+- Mejoras aplicadas a Bubble Sort
 
 1\. Detección de arreglo ordenado (swapped)
 
@@ -27,8 +27,7 @@ Este proyecto implementa algoritmos de ordenamiento en Java y analiza su comport
 3\. Contadores de operaciones
 
 
-
-\## Pruebas realizadas
+- Pruebas realizadas
 
 Se probaron los algoritmos con los siguientes arreglos:
 
@@ -40,7 +39,7 @@ Se probaron los algoritmos con los siguientes arreglos:
 
 
 
-\## Resultados
+- Resultados
 
 Se registraron comparaciones e intercambios para analizar el rendimiento.
 
